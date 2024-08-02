@@ -15,11 +15,4 @@ This project is a Python implementation of the Enigma machine, a cipher device u
 - **Set Rotor Positions**: Initialize rotor positions to a specific setting before encoding messages.
 - **Encode Messages**: Input plaintext messages to receive the encoded ciphertext.
 
-## Example:
-\`\`\`python
-    enigma.selectRotor(enigma.promptRotorSelection())
-    enigma.selectReflector(enigma.promptReflectorSelection())
-    enigma.encodeRotor(enigma.promptNotationSelection())
-\`\`\`
-
 This project serves as an educational tool to understand the inner workings of the Enigma machine and the principles of classical cryptography. It demonstrates the complexity of mechanical encryption devices and the historical significance of the Enigma machine in cryptographic history." > README.md
