@@ -1,4 +1,4 @@
-echo "# Enigma Machine Simulation
+# Enigma Machine Simulation
 
 This project is a Python implementation of the Enigma machine, a cipher device used by Germany during World War II. The Enigma machine enabled secure communication by encoding messages with a complex substitution cipher that varied with each keystroke.
 
@@ -17,21 +17,6 @@ This project is a Python implementation of the Enigma machine, a cipher device u
 
 ## Example:
 \`\`\`python
-if __name__ == "__main__":
-    enigma = Enigma()
-    enigma.setupConnection('A', 'R')
-    enigma.setupConnection('H', 'D')
-    enigma.setupConnection('C', 'L')
-    enigma.setupConnection('P', 'E')
-    enigma.setupConnection('V', 'F')
-    enigma.setupConnection('X', 'O')
-    enigma.setupConnection('I', 'Z')
-    enigma.setupConnection('S', 'G')
-    enigma.setupConnection('J', 'T')
-    enigma.setupConnection('B', 'M')
-    enigma.instructions()
-    print()
-
     enigma.selectRotor(enigma.promptRotorSelection())
     enigma.selectReflector(enigma.promptReflectorSelection())
     enigma.encodeRotor(enigma.promptNotationSelection())
