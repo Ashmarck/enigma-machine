@@ -1,10 +1,5 @@
 # Enigma Machine Simulator (PyQt6 GUI)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/enigma-machine?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/YOUR_GITHUB_USERNAME/enigma-machine?style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/YOUR_GITHUB_USERNAME/enigma-machine?style=flat-square)
-![License](https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/enigma-machine?style=flat-square)
-
 A desktop application for simulating the famous Enigma machine with an interactive, vintage-style graphical user interface (GUI) built using Python and PyQt6.
 
 ## Table of Contents
