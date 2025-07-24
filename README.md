@@ -2,6 +2,8 @@
 
 A desktop application for simulating the famous Enigma machine with an interactive, vintage-style graphical user interface (GUI) built using Python and PyQt6.
 
+---
+
 ## About The Project
 
 This project aims to provide an interactive and historically-inspired simulation of the Enigma machine, focusing on its core mechanical and electrical principles. Users can configure the machine's essential components – rotors, reflector, and plugboard – to encrypt and decrypt messages, offering insight into the cryptographic device used during World War II. The graphical interface is designed with a dark, vintage aesthetic, mirroring the physical appearance of the original Enigma.
