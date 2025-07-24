@@ -1,0 +1,24 @@
+# Python specific files and directories
+__pycache__/      # Python compiled bytecode cache
+*.pyc             # Compiled Python files
+*.pyo             # Optimized compiled Python files
+*.pyd             # Python dynamic link library (Windows)
+.Python           # Windows-specific Python environment folder
+
+# Virtual environment directories
+env/              # Generic virtual environment folder
+venv/             # Common virtual environment folder
+.venv/            # Another common virtual environment folder
+
+# Packaging/Build related files
+*.egg-info/       # Python egg-info directories
+build/            # Build artifacts
+dist/             # Distribution packages
+
+# IDE specific files (adjust based on your IDE)
+.idea/            # PyCharm project files
+.vscode/          # VS Code workspace files
+
+# Operating System specific files
+.DS_Store         # macOS specific folder metadata
+Thumbs.db         # Windows thumbnail cache
